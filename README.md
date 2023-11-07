@@ -1,2 +1,3 @@
 # kiry5273.github.io
-click [here](https://kiry5273.github.io/) to view!
+[profolio]https://kiry5273.github.io/profolio/
+[secret]https://kiry5273.github.io/secret
